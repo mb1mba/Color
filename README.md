@@ -1,1 +1,1 @@
-colorroloc.netlify.app
+https://colorroloc.netlify.app/
